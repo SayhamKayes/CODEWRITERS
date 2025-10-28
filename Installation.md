@@ -24,6 +24,6 @@ Once the virtual environment is active in the VS Code terminal, navigate to the 
         python manage.py runserver
     
     3. Access your project: The terminal will display a message indicating the server is running, usually at a link like http://127.0.0.1:8000/. You can often Ctrl+Click (Windows/Linux) or Cmd+Click (macOS) the link in the terminal to open your Django project in your web browser.
+    4. Video Tutorial
 
     https://www.youtube.com/watch?v=wc2fKm1ZmbI
-
